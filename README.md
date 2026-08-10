@@ -6,9 +6,10 @@ BTech Mechanical Engineering, Symbiosis Institute of Technology, Pune · 2023–
 
 In 2021 I got stuck on a dumb question: why do we still deploy CubeSats with springs. I never
 really got unstuck. That question is now **VOLLEY**: an electromagnetic deployer that ejects
-unmodified 3U CubeSats at a programmable velocity, 6.6 times the fastest published spring
-comparator, from a spent rideshare upper stage. I've presented it at DRDO ARDE and the India
-Science Festival.
+unmodified 3U CubeSats at a programmable velocity from a spent rideshare upper stage. Against the
+fastest published spring it is 6.6 times the velocity — but **7.5 times the orbital lifetime it
+buys**, which is the number that matters and the one I had been under-quoting. I've presented it
+at DRDO ARDE and the India Science Festival.
 
 Before that there was rocketry, where our payload took **2nd globally** at the SDL Payload
 Challenge, IREC 2025 in Texas. Alongside it there are engines, I run Poona Motor Club, tune Royal
@@ -23,6 +24,13 @@ proven it yet.
 
 ### The thing I'd actually like you to look at
 
+The idea is not really the motor. A launch vehicle's upper stage does its job in ten minutes and
+then becomes debris; POEM has already flown the counter-example. **VOLLEY turns that spent stage
+into a last-mile delivery vehicle** — it repositions between altitude shells on its own reaction
+control and fires satellites off at individually commanded velocities at each one. Altitude and
+phase are in; **plane change is not**, at 133 m/s per degree, and I say so everywhere rather than
+letting the word "orbit" do work it hasn't earned.
+
 **[VOLLEY](https://github.com/aaaaaaaaaaaavm/VOLLEY)**, a magazine-fed ironless double-sided
 Halbach linear synchronous motor that ejects unmodified CubeSats at **16.388 m/s and 10.533 g**,
 drawing **2.85 kJ gross and 2.56 kJ net** per shot. TRL 2–3. Nothing built, fired or measured.
@@ -32,15 +40,25 @@ published and numbered, including the ones that damage the claims. An independen
 falsified a claim in my paper's own abstract; that's logged as P16 rather than quietly dropped.
 The pulse-power chain does not close on a commercially realistic single supercapacitor string.
 A covariance claim, an internal-momentum conclusion and the brake-fin thermal model have all
-been superseded in public. Acceptance bands are written down *before* each analysis runs, so a
-failure cannot be rationalised afterwards.
+been superseded in public.
+
+**Acceptance bands are written down *before* each analysis runs**, so a failure cannot be
+rationalised afterwards. That is not a formality. Twice this month a band failed, I went looking
+for the design flaw, and found the bug in **my own analysis script** instead — once a sign
+convention that had quietly cost 57 km of a delivery envelope, once a limit I had computed for
+one burn of a two-burn manoeuvre. A band chosen after seeing the answer would have passed both
+and shipped both.
+
+The most recent one is the flavour of the whole thing: modelling the release properly showed the
+release was never the problem — the payload arrives in its cradle at **18 to 115 times** the
+tip-off limit at the *start* of the stroke, which nothing had looked at.
 
 That habit is the actual portfolio:
 **[skills, with the file that proves each one](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/docs/SKILLS.md)**
 
 | | |
 |---|---|
-| 🛰 **[VOLLEY](https://github.com/aaaaaaaaaaaavm/VOLLEY)** | The authoritative engineering record. Start at `SUMMARY.md` |
+| 🛰 **[VOLLEY](https://github.com/aaaaaaaaaaaavm/VOLLEY)** | The authoritative engineering record. Start at [`docs/CONCEPT.md`](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/docs/CONCEPT.md) |
 | 📄 **[VOLLEY-paper](https://github.com/aaaaaaaaaaaavm/VOLLEY-paper)** | IEEE manuscript and reproducibility package |
 | 🎓 **[VOLLEY-thesis](https://github.com/aaaaaaaaaaaavm/VOLLEY-thesis)** | Final-year submission |
 | 🧪 **[VOLLEY-lab](https://github.com/aaaaaaaaaaaavm/VOLLEY-lab)** | Phase II work. Deliberately unstable and not citable |
