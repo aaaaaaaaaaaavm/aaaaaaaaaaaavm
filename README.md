@@ -37,11 +37,21 @@ survives is **orbit change**, which no clock can imitate.
 Halbach linear synchronous motor that ejects unmodified CubeSats at **16.029 m/s and 10.07 g**,
 drawing **2.78 kJ gross and 2.74 kJ net** per shot. TRL 2–3. Nothing built, fired or measured.
 
-**The design target has since moved.** Attributing every kilogram to the requirement that causes
-it showed the reusable magnet sled is **11 % of dry mass** and the pulse-power chain is **28 %**,
-so the current target deletes the second: the payload accelerated directly, by cold gas, along a
-rail the spent stage provides. **The architecture that was the target the day before is kept in
-full**, with the measurement that retired it at the top of it.
+**The design target has since moved, twice.** Attributing every kilogram to the requirement that
+causes it showed the reusable magnet sled is **11 % of dry mass** and the pulse-power chain is
+**28 %**, so the target deletes the second: the payload accelerated directly, by cold gas, along a
+rail the spent stage provides. **Then the stroke followed the same logic** — the last thing the
+machine carried for itself was its own length, and a spent stage supplies **8.0 m** of it free.
+Same exit velocity, **45.5 % of the acceleration and 45.5 % of the gas.**
+
+**Gas supplies the energy; a 39.7 mm stator at the muzzle supplies the control** — a gas store is
+an excellent energy store and a terrible servo, and a linear machine is the reverse. **The
+architecture that was the target the day before is kept in full**, with the measurement that
+retired it at the top of it.
+
+**Every headline number above is still Gen5's**, because Gen5 is what has structural FEA, CFD, a
+designed control loop and a second CAD implementation behind it, and the new target has none of
+those yet. **Both are published side by side rather than one quietly replacing the other.**
 
 **Open it for the defect record, not the numbers.** Every error I've found in my own work is
 published and numbered, including the ones that damage the claims. An independent propagator
