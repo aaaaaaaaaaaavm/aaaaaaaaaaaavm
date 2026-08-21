@@ -2,6 +2,10 @@
 
 **Mechanical engineer. Powertrain, ECUs, CubeSat deployment. Asking spacecraft inconvenient questions.**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/VOLLEY/main/cad/renders/gen5/hero_open.png" alt="VOLLEY, an electromagnetic CubeSat deployer" width="100%">
+</p>
+
 BTech Mechanical Engineering, Symbiosis Institute of Technology, Pune · 2023–2027
 
 In 2021 I got stuck on a dumb question: why do we still deploy CubeSats with springs. I never
@@ -21,6 +25,14 @@ Aerospace, telecom software, engines. I have a hunch they all come from the same
 proven it yet.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/VOLLEY/main/figures/A29_wake.png" alt="OpenFOAM solution around the sled" width="32%">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/VOLLEY/main/figures/A02_field_map.png" alt="Halbach airgap field and its depth profile" width="32%">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/VOLLEY/main/figures/A35_ledger.png" alt="Constraint ledger and the 64-corner floor" width="32%">
+</p>
+
+<p align="center"><sub>External aerodynamics in OpenFOAM, <b>581&nbsp;779 cells</b> &middot; the Halbach airgap field resolved through the array's 90&nbsp;mm depth &middot; every kilogram attributed to the requirement that causes it. <b>All three are model output. Nothing in the project has been built, fired or measured</b> &mdash; and the repository leads with that rather than hiding it.</sub></p>
 
 ### The thing I'd actually like you to look at
 
