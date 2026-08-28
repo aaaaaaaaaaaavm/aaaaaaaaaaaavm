@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#07111b"/>
+<text x="72" y="76" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="24" font-weight="700" text-anchor="start">AVM · ENGINEERING PORTFOLIO</text>
+<text x="72" y="120" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="33" font-weight="650" text-anchor="start">One flagship, two adjacent systems, three reusable extractions.</text>
+<text x="72" y="158" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="19" font-weight="400" text-anchor="start">The block size is deliberate: VOLLEY remains the main body of work.</text>
+<rect x="72" y="214" width="858" height="478" rx="18" fill="#0c1d2a" stroke="#38d6e8"/>
+<text x="108" y="266" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">FLAGSHIP</text>
+<text x="108" y="326" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="48" font-weight="750" text-anchor="start">VOLLEY</text>
+<text x="108" y="374" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="24" font-weight="400" text-anchor="start">programmable CubeSat deployment</text>
+<text x="108" y="424" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="600" text-anchor="start">Gen5 analysed baseline · Gen6 design target</text>
+<text x="108" y="464" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="600" text-anchor="start">70 run sheets · 67 analyses · 0 measurements</text>
+<text x="108" y="528" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">Engineering record</text>
+<text x="108" y="562" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="400" text-anchor="start">calculations · CAD · failures · decisions · provenance</text>
+<rect x="108" y="610" width="220" height="48" rx="12" fill="#091720" stroke="#24536a"/>
+<text x="218" y="641" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="650" text-anchor="middle">VOLLEY-paper</text>
+<rect x="344" y="610" width="220" height="48" rx="12" fill="#091720" stroke="#24536a"/>
+<text x="454" y="641" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="650" text-anchor="middle">VOLLEY-thesis</text>
+<rect x="580" y="610" width="220" height="48" rx="12" fill="#091720" stroke="#24536a"/>
+<text x="690" y="641" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="650" text-anchor="middle">VOLLEY-lab</text>
+<rect x="974" y="214" width="550" height="220" rx="18" fill="#0c1d2a" stroke="#9b8cff"/>
+<text x="1006" y="258" fill="#9b8cff" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">SIBLING SYSTEM</text>
+<text x="1006" y="304" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="31" font-weight="750" text-anchor="start">BOLLEY</text>
+<text x="1006" y="344" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="400" text-anchor="start">passive spacecraft interface</text>
+<text x="1006" y="386" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">opposite premise · same evidence discipline</text>
+<rect x="974" y="472" width="550" height="220" rx="18" fill="#0c1d2a" stroke="#ffb454"/>
+<text x="1006" y="516" fill="#ffb454" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">ADJACENT SYSTEM</text>
+<text x="1006" y="562" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="31" font-weight="750" text-anchor="start">GATEWAYCX</text>
+<text x="1006" y="602" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="400" text-anchor="start">one Internet across Earth and Moon</text>
+<text x="1006" y="644" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">regional architecture · RF / optical · durable traffic</text>
+<rect x="72" y="742" width="456" height="104" rx="18" fill="#091720" stroke="#38d6e8"/>
+<text x="98" y="784" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">PULSED MOTOR LAB</text>
+<text x="98" y="820" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">force · stroke · source</text>
+<rect x="568" y="742" width="456" height="104" rx="18" fill="#091720" stroke="#9b8cff"/>
+<text x="594" y="784" fill="#9b8cff" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">ORBITAL TRADE</text>
+<text x="594" y="820" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">impulse · recoil · attitude</text>
+<rect x="1064" y="742" width="456" height="104" rx="18" fill="#091720" stroke="#61d6a3"/>
+<text x="1090" y="784" fill="#61d6a3" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">EVIDENCE TOOLKIT</text>
+<text x="1090" y="820" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">links · JSON · hashes</text>
+<text x="1494" y="882" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="650" text-anchor="end">PUBLIC REPOSITORIES · PROJECT BOUNDARIES KEPT EXPLICIT</text>
+</svg>
