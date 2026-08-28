@@ -128,6 +128,38 @@ the useful result.
 | [Engineering Evidence Toolkit](https://github.com/aaaaaaaaaaaavm/engineering-evidence-toolkit) | Checks finite results, local links, source presence and artifact hashes | Consistency is not physics validation |
 | [Orbital Deployment Trade Study](https://github.com/aaaaaaaaaaaavm/orbital-deployment-trade-study) | Screens tangential impulses, phase drift, recoil and internal-mass disturbance | Two-body and rigid-body only; not conjunction assessment |
 
+### The other system I am building
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/GatewayCX/main/figures/architecture-overview.svg" alt="GatewayCX Earth-Moon Internet architecture" width="100%">
+</p>
+
+The question this time is less mechanical: if the Moon gets crews, landers and data centres, why
+should its network become a pile of mission-specific links. [GatewayCX](https://github.com/aaaaaaaaaaaavm/GatewayCX)
+is an exploratory cislunar telecommunications architecture study I initiated at Avisys in April
+2026. The end state is ordinary Internet semantics across Earth and the Moon, with the same names,
+identities and applications, while accepting the 2.565-second geometric round trip rather than
+pretending bandwidth can remove it.
+
+The architecture treats Earth and the Moon as autonomous Internet regions joined by optical and
+RF bearers. Native IP stays where continuity permits; durable delivery takes over when it does not;
+lunar compute keeps local work local. The hardware seam is deliberately vendor-neutral. A terminal
+supplier implements the bearer adapter; it does not get to define the application network above it.
+
+What exists today is software evidence: deterministic studies, a machine-readable bearer profile,
+an executable RF/optical adapter surface, a payload-blind SQLite traffic ledger and a local
+process-boundary binding. The restart test preserves 7,995,392 accepted bytes and partial progress
+across separate processes. None of that is a lunar link. No terminal has been connected, no vendor
+is a partner or dependency, and the repository says so on the front page.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/GatewayCX/main/figures/s016-bearer-window.svg" alt="GatewayCX optical and RF adapter capacity comparison" width="49%">
+  <img src="https://raw.githubusercontent.com/aaaaaaaaaaaavm/GatewayCX/main/figures/s017-durable-restart.svg" alt="GatewayCX durable traffic ledger across process restart" width="49%">
+</p>
+
+<p align="center"><sub>Both are generated from committed test results. Assumed bearer capacity on
+the left; a clean software restart on the right. Neither is hardware evidence.</sub></p>
+
 ---
 
 ### What I actually do
