@@ -2,7 +2,7 @@
 from html import escape
 from pathlib import Path
 
-ROOT=Path(__file__).resolve().parent
+ROOT=Path(__file__).resolve().parents[1]
 BG,PANEL,INK,MUTED="#07111b","#0c1d2a","#e8f0f7","#8fa7ba"
 CYAN,VIOLET,AMBER,GREEN="#38d6e8","#9b8cff","#ffb454","#61d6a3"
 
