@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-<rect width="1600" height="900" fill="#07111b"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1160" viewBox="0 0 1600 1160">
+<rect width="1600" height="1160" fill="#07111b"/>
 <text x="72" y="76" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="24" font-weight="700" text-anchor="start">AVM · ENGINEERING PORTFOLIO</text>
-<text x="72" y="120" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="33" font-weight="650" text-anchor="start">One flagship, two adjacent systems, three reusable extractions.</text>
-<text x="72" y="158" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="19" font-weight="400" text-anchor="start">The block size is deliberate: VOLLEY remains the main body of work.</text>
+<text x="72" y="120" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="33" font-weight="650" text-anchor="start">One flagship, two adjacent systems, nine focused tools.</text>
+<text x="72" y="158" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="19" font-weight="400" text-anchor="start">The hierarchy is deliberate: VOLLEY remains the main body of work.</text>
 <rect x="72" y="214" width="858" height="478" rx="18" fill="#0c1d2a" stroke="#38d6e8"/>
 <text x="108" y="266" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">FLAGSHIP</text>
 <text x="108" y="326" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="48" font-weight="750" text-anchor="start">VOLLEY</text>
@@ -26,15 +26,34 @@
 <text x="1006" y="516" fill="#ffb454" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">ADJACENT SYSTEM</text>
 <text x="1006" y="562" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="31" font-weight="750" text-anchor="start">GATEWAYCX</text>
 <text x="1006" y="602" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="400" text-anchor="start">one Internet across Earth and Moon</text>
-<text x="1006" y="644" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">regional architecture · RF / optical · durable traffic</text>
-<rect x="72" y="742" width="456" height="104" rx="18" fill="#091720" stroke="#38d6e8"/>
-<text x="98" y="784" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">PULSED MOTOR LAB</text>
-<text x="98" y="820" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">force · stroke · source</text>
-<rect x="568" y="742" width="456" height="104" rx="18" fill="#091720" stroke="#9b8cff"/>
-<text x="594" y="784" fill="#9b8cff" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">ORBITAL TRADE</text>
-<text x="594" y="820" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">impulse · recoil · attitude</text>
-<rect x="1064" y="742" width="456" height="104" rx="18" fill="#091720" stroke="#61d6a3"/>
-<text x="1090" y="784" fill="#61d6a3" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">EVIDENCE TOOLKIT</text>
-<text x="1090" y="820" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">links · JSON · hashes</text>
-<text x="1494" y="882" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="650" text-anchor="end">PUBLIC REPOSITORIES · PROJECT BOUNDARIES KEPT EXPLICIT</text>
+<text x="1006" y="644" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="550" text-anchor="start">regional architecture · vendor-neutral bearers</text>
+<text x="72" y="748" fill="#61d6a3" font-family="Inter,Segoe UI,sans-serif" font-size="16" font-weight="700" text-anchor="start">FOCUSED, REUSABLE EXTRACTIONS</text>
+<rect x="72" y="780" width="456" height="82" rx="14" fill="#091720" stroke="#38d6e8"/>
+<text x="94" y="813" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">PULSED MOTOR LAB</text>
+<text x="94" y="840" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">force · stroke · source</text>
+<rect x="568" y="780" width="456" height="82" rx="14" fill="#091720" stroke="#9b8cff"/>
+<text x="590" y="813" fill="#9b8cff" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">ORBITAL TRADE</text>
+<text x="590" y="840" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">impulse · recoil · attitude</text>
+<rect x="1064" y="780" width="456" height="82" rx="14" fill="#091720" stroke="#61d6a3"/>
+<text x="1086" y="813" fill="#61d6a3" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">EVIDENCE TOOLKIT</text>
+<text x="1086" y="840" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">links · JSON · hashes</text>
+<rect x="72" y="884" width="456" height="82" rx="14" fill="#091720" stroke="#38d6e8"/>
+<text x="94" y="917" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">CONSTRAINT FLOOR</text>
+<text x="94" y="944" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">requirements · additive bounds</text>
+<rect x="568" y="884" width="456" height="82" rx="14" fill="#091720" stroke="#ffb454"/>
+<text x="590" y="917" fill="#ffb454" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">CAD EVIDENCE</text>
+<text x="590" y="944" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">parameters · artifacts · hashes</text>
+<rect x="1064" y="884" width="456" height="82" rx="14" fill="#091720" stroke="#9b8cff"/>
+<text x="1086" y="917" fill="#9b8cff" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">SEPARATION DYNAMICS</text>
+<text x="1086" y="944" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">impulse · tip-off · internal mass</text>
+<rect x="72" y="988" width="456" height="82" rx="14" fill="#091720" stroke="#ffb454"/>
+<text x="94" y="1021" fill="#ffb454" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">BEARER SDK</text>
+<text x="94" y="1048" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">contract · receipt · conformance</text>
+<rect x="568" y="988" width="456" height="82" rx="14" fill="#091720" stroke="#61d6a3"/>
+<text x="590" y="1021" fill="#61d6a3" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">DISRUPTION LAB</text>
+<text x="590" y="1048" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">contacts · wait · forward</text>
+<rect x="1064" y="988" width="456" height="82" rx="14" fill="#091720" stroke="#38d6e8"/>
+<text x="1086" y="1021" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">RUN REGISTRY</text>
+<text x="1086" y="1048" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="550" text-anchor="start">content IDs · claims · lineage</text>
+<text x="1494" y="1138" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="650" text-anchor="end">PUBLIC REPOSITORIES · BOUNDARIES AND PROVENANCE KEPT EXPLICIT</text>
 </svg>
