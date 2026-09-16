@@ -7,8 +7,8 @@
 <text x="108" y="266" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700" text-anchor="start">FLAGSHIP</text>
 <text x="108" y="326" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="48" font-weight="750" text-anchor="start">VOLLEY</text>
 <text x="108" y="374" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="24" font-weight="400" text-anchor="start">programmable CubeSat deployment</text>
-<text x="108" y="424" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="600" text-anchor="start">Gen5 analysed baseline · Gen6 design target</text>
-<text x="108" y="464" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="600" text-anchor="start">70 run sheets · 67 analyses · 0 measurements</text>
+<text x="108" y="424" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="20" font-weight="600" text-anchor="start">Gen5 frozen · independent-cell reference</text>
+<text x="108" y="464" fill="#e8f0f7" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="600" text-anchor="start">reproducible studies · retained failures · 0 measurements</text>
 <text x="108" y="528" fill="#38d6e8" font-family="Inter,Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="start">Engineering record</text>
 <text x="108" y="562" fill="#8fa7ba" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="400" text-anchor="start">calculations · CAD · failures · decisions · provenance</text>
 <rect x="108" y="610" width="220" height="48" rx="12" fill="#091720" stroke="#24536a"/>

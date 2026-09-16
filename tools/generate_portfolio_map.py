@@ -21,8 +21,8 @@ def render():
          box(72,214,858,478,stroke=CYAN),
          txt(108,266,"FLAGSHIP",15,CYAN,700),txt(108,326,"VOLLEY",48,INK,750),
          txt(108,374,"programmable CubeSat deployment",24,MUTED),
-         txt(108,424,"Gen5 analysed baseline · Gen6 design target",20,INK,600),
-         txt(108,464,"70 run sheets · 67 analyses · 0 measurements",20,INK,600),
+         txt(108,424,"Gen5 frozen · independent-cell reference",20,INK,600),
+         txt(108,464,"reproducible studies · retained failures · 0 measurements",18,INK,600),
          txt(108,528,"Engineering record",14,CYAN,700),
          txt(108,562,"calculations · CAD · failures · decisions · provenance",18,MUTED)]
     for x,label in [(108,"VOLLEY-paper"),(344,"VOLLEY-thesis"),(580,"VOLLEY-lab")]:
