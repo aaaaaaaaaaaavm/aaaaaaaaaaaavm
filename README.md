@@ -26,11 +26,11 @@ Gen5 is the controlled computational configuration for academic review. Its hist
 
 **Gen6 is future scaling research toward a 1 km/s-class objective.** No mechanism, payload class or speed range is selected or validated. The independent motor-charged spring-cell bank and long gas guide remain unselected historical studies.
 
-The mission work compares release authority with host manoeuvres and competent spring/timing alternatives. The two-payload study retained 100 tested campaign cases, 44 of which met its terminal-state bands. Higher available ejection speed did not automatically reduce fuel: three authority screens tied at the same best tested point. That is a bounded result, not an optimum or a provider-approved mission.
+The mission work compares release authority with host manoeuvres and competent spring/timing alternatives. A historical two-payload screen found accepted cases under its assumptions, but the later matched twelve-shot reference does **not** close in any sampled case. Neither study establishes product value or a provider-approved mission.
 
 What I want a reviewer to inspect:
 
-- [The campaign calculation](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/docs/MANIFEST_TIMING.md): one evolving host, explicit payload order and terminal position/velocity.
+- [The matched mission reference](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/docs/MATCHED_MISSION_REFERENCE.md): one declared host, payload and target compared across release concepts.
 - [The open-problem register](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/OPEN_PROBLEMS.md): corrections and failed claims remain visible.
 - [The evidence boundary](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/docs/PROVENANCE.md): model output, cross-checks, nominal CAD and missing measurement are kept distinct.
 - [The reproduction route](https://github.com/aaaaaaaaaaaavm/VOLLEY/blob/main/docs/CONTRIBUTING.md): acceptance criteria before execution, source hashes and executable checks.
