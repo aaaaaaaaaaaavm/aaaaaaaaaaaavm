@@ -1,0 +1,30 @@
+name: publication-gate
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  public-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: fetch checked revision
+        run: |
+          git init -q .
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git fetch -q origin "${{ github.sha }}"
+          git checkout -q --detach "${{ github.sha }}"
+      - name: prepublication file gate
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if [ -z "$BASE_SHA" ] || [ "$BASE_SHA" = 0000000000000000000000000000000000000000 ]; then
+            python3 tools/prepublish_gate.py --all
+          else
+            git fetch -q origin "$BASE_SHA"
+            python3 tools/prepublish_gate.py --base "$BASE_SHA"
+          fi
